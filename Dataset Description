@@ -1,0 +1,12 @@
+The dataset contains information about the ‘Amazing Mart’, with each row representing individual order list details:-
+
+Order ID: This is a unique identifier for each order placed
+Order Date: The date on which the order was placed
+Customer Name: The name of the customer who placed the order
+City: The city where the customer is located
+Country: The country where the customer is located
+Region: The region or geographical area to which the customer belongs
+Segment: The segment to which the customer belongs, e.g., Consumer, Corporate, or Home Office
+Ship Date: The date on which the order was shipped
+Ship Mode: The mode of shipping for the order, such as Economy Plus or Priority
+State: The specific state within the country where the customer is located
